@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="submitOrder">C:/Users/0013P7744/Documents/submitOrder-soapui-project.xml</con:project>
+  <con:project name="GETVALIDPIN">C:/Users/0013P7744/Documents/GETVALIDPIN-soapui-project.xml</con:project>
+  <con:project name="REST Project 1">C:/Users/0013P7744/Documents/REST-Project-1-soapui-project.xml</con:project>
+  <con:project name="REST Project 2">C:/Users/0013P7744/Documents/REST-Project-2-soapui-project.xml</con:project>
+  <con:project name="ort-financialCreditInfo">C:/Users/0013P7744/Documents/ort-financialCreditInfo-soapui-project.xml</con:project>
+  <con:project name="validateDevice">C:/Users/0013P7744/Documents/validateDevice-soapui-project.xml</con:project>
+  <con:project name="REST Project 3">C:/Users/0013P7744/Documents/REST-Project-3-soapui-project.xml</con:project>
+  <con:project name="REST Project 4">C:/Users/0013P7744/Documents/REST-Project-4-soapui-project.xml</con:project>
+  <con:project name="RTB1-calculateEquipmentTax">C:/Users/0013P7744/Documents/RTB1-calculateEquipmentTax-soapui-project.xml</con:project>
+  <con:project name="STEST-createFullfillmentOrder">C:/Users/0013P7744/Documents/STEST-createFullfillmentOrder-soapui-project.xml</con:project>
+  <con:project name="STEST-CFFO">C:/Users/0013P7744/Documents/STEST-CFFO-soapui-project.xml</con:project>
+  <con:project name="REST Project 5">C:/Users/0013P7744/Documents/REST-Project-5-soapui-project.xml</con:project>
+  <con:project name="RTB1-createFullFilllment">C:/Users/0013P7744/Documents/RTB1-createFullFilllment-soapui-project.xml</con:project>
+  <con:project name="rtb1">C:/Users/0013P7744/Documents/rtb1-soapui-project.xml</con:project>
+  <con:project name="Project 6">C:/Users/0013P7744/Documents/Project-6-soapui-project.xml</con:project>
+  <con:project name="resourceCanceledResource">C:/Users/0013P7744/Documents/resourceCanceledResource-soapui-project.xml</con:project>
+  <con:project name="queryCorporationInfo">C:/Users/0013P7744/Documents/queryCorporationInfo-soapui-project.xml</con:project>
+  <con:project name="validateDevice">C:/Users/0013P7744/SoapBitBucket/validatedevice/test/soapui/sanity/sanity-soapui-project.xml</con:project>
+  <con:project name="Sanity-SearchAccountlist">C:/Users/0013P7744/Documents/searchaccountlist/searchaccountlist/test/soapui/sanity/sanity-soapui-project.xml</con:project>
+  <con:project name="stag">C:/Users/0013P7744/SoapBitBucket/querycorporationinfo/test/soapui/sanity/stag-soapui-project.xml</con:project>
+  <con:project name="queryAccountOrder">C:/Users/0013P7744/SoapBitBucket/querycorporationinfo/test/soapui/sanity/queryAccountOrder-soapui-project.xml</con:project>
+  <con:project name="calculateEquipmentTax">C:/Users/0013P7744/SoapBitBucket/querycorporationinfo/test/soapui/regression/F11651-soapui-project.xml</con:project>
+  <con:project name="queryCorporationInfo">C:/Users/0013P7744/SoapBitBucket/querycorporationinfo/test/soapui/sanity/sanity-soapui-project.xml</con:project>
+  <con:project name="queryAccountOrder">C:/Users/0013P7744/Documents/queryAccountOrder-soapui-project.xml</con:project>
+  <con:project name="REST Project 6">C:/Users/0013P7744/Documents/REST-Project-6-soapui-project.xml</con:project>
+  <con:project name="Project 7">C:/Users/0013P7744/Documents/Project-7-soapui-project.xml</con:project>
+  <con:project name="RTB1-queryNbaOfferCriteriaInfo">C:/Users/0013P7744/Documents/RTB1-queryNbaOfferCriteriaInfo-soapui-project.xml</con:project>
+  <con:project name="webservicesgatewayrtb1-sen.corp.sprint">C:/Users/0013P7744/Documents/webservicesgatewayrtb1-sen-corp-sprint-soapui-project.xml</con:project>
+  <con:project name="queryPeerNetworkID">C:/Users/0013P7744/Documents/queryPeerNetworkID-soapui-project.xml</con:project>
+  <con:project name="validateDevice">C:/Users/0013P7744/Desktop/ValidateDevice/validateDevice-soapui-project.xml</con:project>
+  <con:project name="queryShippingsla">C:/Users/0013P7744/Documents/queryShippingsla-soapui-project.xml</con:project>
+  <con:project name="queryShippingSladata">C:/Users/0013P7744/Documents/queryShippingSladata-soapui-project.xml</con:project>
+  <con:project name="checkNotificationMethod">C:/Users/0013P7744/Documents/checkNotificationMethod-soapui-project.xml</con:project>
+  <con:project name="webservicesgatewayrtb1-sen.corp.sprint">C:/Users/0013P7744/Documents/webservicesgatewayrtb1-sen-corp-sprint-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+  <con:recentItemCollection>
+    <con:moduleId>SoapUiNGModule</con:moduleId>
+    <con:itemId>326dd1e5-a125-4fec-910d-0da4c1978c36</con:itemId>
+    <con:itemId>da5e474d-b1c8-47a1-b1e0-d56b3a9157aa</con:itemId>
+    <con:itemId>e6ce557b-7902-47a1-9062-c3f7cf1773e7</con:itemId>
+  </con:recentItemCollection>
+  <con:expandedTreeNodes>
+    <con:project path="C:\Users\0013P7744\Documents\submitOrder-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\GETVALIDPIN-soapui-project.xml">
+      <nodeId>d32338c3-301c-4b52-a7e6-9bb729ffa61dsoapui</nodeId>
+      <nodeId>326dd1e5-a125-4fec-910d-0da4c1978c36</nodeId>
+    </con:project>
+    <con:project path="C:\Users\0013P7744\Documents\REST-Project-1-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\REST-Project-2-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\ort-financialCreditInfo-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\validateDevice-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\REST-Project-3-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\REST-Project-4-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\RTB1-calculateEquipmentTax-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\STEST-createFullfillmentOrder-soapui-project.xml"/>
+    <con:project path="C:\Users\0013P7744\Documents\STEST-CFFO-soapui-project.xml"/>
+  </con:expandedTreeNodes>
+  <con:overridenPropertyValuesCollection/>
+</con:soapui-workspace>
